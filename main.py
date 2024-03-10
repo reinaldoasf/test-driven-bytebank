@@ -14,3 +14,5 @@ def teste_idade():
     print(f'Teste = {funcionario_teste3.idade()}')
 
 teste_idade()
+
+#test_quando_decrescimo_salario_recebe_100000_deve_retornar_90000()
